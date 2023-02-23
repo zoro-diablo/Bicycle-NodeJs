@@ -1,3 +1,3 @@
 # Bicycle-NodeJs
 
-Bicylce Website using NodeJs
+Bicyclce Website using NodeJs
